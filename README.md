@@ -1,4 +1,3 @@
-Here's a sample `README.md` file for your GitHub repository with some information on React.js and instructions for running the project.
 
 ---
 
@@ -106,4 +105,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-This `README.md` provides a brief introduction to React, along with specific instructions on how to install, run, and contribute to your project. Let me know if you'd like to add or change anything!
+
